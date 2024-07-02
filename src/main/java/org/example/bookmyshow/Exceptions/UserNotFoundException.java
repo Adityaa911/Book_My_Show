@@ -1,4 +1,4 @@
-package Exceptions;
+package org.example.bookmyshow.Exceptions;
 
 public class UserNotFoundException extends Exception{
 
